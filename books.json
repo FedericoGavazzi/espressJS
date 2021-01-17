@@ -1,0 +1,71 @@
+[
+    {
+        "autore" : "a",
+        "titolo" : "a",
+        "ISBN" : "2548567823365",
+        "editore" : "a"
+    },
+
+    {
+        "autore" : "b",
+        "titolo" : "b",
+        "ISBN" : "7546254895458",
+        "editore" : "b"
+    },
+
+    {
+        "autore" : "c",
+        "titolo" : "c",
+        "ISBN" : "1120336587943",
+        "editore" : "c"
+    },
+
+    {
+        "autore" : "d",
+        "titolo" : "d",
+        "ISBN" : "2356984505007",
+        "editore" : "d"
+    },
+
+    {
+        "autore" : "e",
+        "titolo" : "e",
+        "ISBN" : "9000563687452",
+        "editore" : "e"
+    },
+
+    {
+        "autore" : "f",
+        "titolo" : "f",
+        "ISBN" : "9636875423598",
+        "editore" : "f"
+    },
+
+    {
+        "autore" : "g",
+        "titolo" : "g",
+        "ISBN" : "1203005875694",
+        "editore" : "g"
+    },
+
+    {
+        "autore" : "h",
+        "titolo" : "h",
+        "ISBN" : "8785462335997",
+        "editore" : "h"
+    },
+
+    {
+        "autore" : "i",
+        "titolo" : "i",
+        "ISBN" : "7745203166985",
+        "editore" : "i"
+    },
+
+    {
+        "autore" : "j",
+        "titolo" : "j",
+        "ISBN" : "7485563259687",
+        "editore" : "j"
+    }
+]
